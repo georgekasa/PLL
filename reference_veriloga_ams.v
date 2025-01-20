@@ -1,4 +1,4 @@
-//"verilogams"
+//"verilogams" from: https://researchrepository.ucd.ie/handle/10197/11459
 
 `include "constants.vams"
 `include "disciplines.vams"
