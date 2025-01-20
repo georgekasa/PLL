@@ -1,4 +1,4 @@
-//Verilog-AMS HDL for "giorgosk_lib", "reference_veriloga" "verilogams"
+//"verilogams"
 
 `include "constants.vams"
 `include "disciplines.vams"
