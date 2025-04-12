@@ -1,6 +1,6 @@
 clc
-%clear
-F0 = 640e6;
+clear
+F0 = 2.0e9;
 T0 = 1.0/F0;
 L1_db = -142;%is for white noise
 L1 = 10^(L1_db/10.0);
